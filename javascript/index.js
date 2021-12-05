@@ -2762,7 +2762,7 @@ var morralisa = new Queen("La Morra Lisa", 6, 7, 6, 5, 5, 7, 7, "Morralisa");
 var cpher = new Queen("Cpher", 7, 5, 10, 13, 7, 14, 9, "Cpher");
 var elektravandergeld = new Queen("Elektra Vandergeld", 7, 8, 11, 11, 8, 11, 11, "Elektravandergeld");
 var rebelmork = new Queen("Rebel Mork", 7, 7, 9, 11, 9, 11, 8, "Rebelmork");
-var irisxc = new Queen("The Macarena", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
+var irisxc = new Queen("Irisxc", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
 var lmd = [aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc];
 //SPECIAL
 var pangina = new Queen("Pangina Heals", 10, 10, 9, 12, 9, 13, 11);
