@@ -466,22 +466,21 @@ let dres = [arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagitta
 
 //LA MAS DRAGA
 let aurora = new Queen("Aurora Wonders", 6, 6, 6, 7, 2, 7, 7, "Aurora");
-let lacarrera = new Queen("La carrera mami", 5, 3, 8, 6, 9, 8, 7, "Lacarrera");
-let sirena = new Queen("Sirena", 8, 8, 9, 11, 7, 11, 9, "Sirena");
-let papercut = new Queen("Paper Cut", 9, 8, 7, 13, 7, 10, 7, "Papercut");
-let tiresias = new Queen("Tiresias", 7, 6, 7, 6, 6, 8, 9, "Tiresias");
-let veracruz = new Queen("Veracruz", 9, 9, 9, 10, 12, 12, 7, "Veracruz");
-let georgiana = new Queen("Georgiana", 7, 7, 8, 10, 10, 11, 9, "Georgiana");
-let lupita = new Queen("Lupita Kush", 6, 7, 7, 6, 7, 9, 9, "Lupita");
-let leexafox = new Queen("Leexa Fox", 7, 8, 9, 9, 10, 10, 8, "Leexafox");
-let morralisa = new Queen("La Morra Lisa", 6, 7, 6, 5, 5, 7, 7, "Morralisa");
 let cpher = new Queen("Cpher", 7, 5, 10, 13, 7, 14, 9, "Cpher");
 let elektravandergeld = new Queen("Elektra Vandergeld", 7, 8, 11, 11, 8, 11, 11, "Elektravandergeld");
-let rebelmork = new Queen("Rebel Mork", 7, 7, 9, 11, 9, 11, 8, "Rebelmork");
+let georgiana = new Queen("Georgiana", 7, 7, 8, 10, 10, 11, 9, "Georgiana");
 let irisxc = new Queen("Irisxc", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
+let lacarrera = new Queen("La carrera mami", 5, 3, 8, 6, 9, 8, 7, "Lacarrera");
+let leexafox = new Queen("Leexa Fox", 7, 8, 9, 9, 10, 10, 8, "Leexafox");
+let lupita = new Queen("Lupita Kush", 6, 7, 7, 6, 7, 9, 9, "Lupita");
+let morralisa = new Queen("La Morra Lisa", 6, 7, 6, 5, 5, 7, 7, "Morralisa");
+let papercut = new Queen("Paper Cut", 9, 8, 7, 13, 7, 10, 7, "Papercut");
+let rebelmork = new Queen("Rebel Mork", 7, 7, 9, 11, 9, 11, 8, "Rebelmork");
+let sirena = new Queen("Sirena", 8, 8, 9, 11, 7, 11, 9, "Sirena");
+let tiresias = new Queen("Tiresias", 7, 6, 7, 6, 6, 8, 9, "Tiresias");
+let veracruz = new Queen("Veracruz", 9, 9, 9, 10, 12, 12, 7, "Veracruz");
 
-let lmd = [aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc];
-
+let lmd = [aurora, cpher, elektravandergeld, georgiana, irisxc, lacarrera, leexafox, lupita, morralisa, papercut, rebelmork, sirena, tiresias, veracruz];
 
 //SPECIAL
 
