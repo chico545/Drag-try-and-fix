@@ -478,7 +478,7 @@ let morralisa = new Queen("La Morra Lisa", 6, 7, 6, 5, 5, 7, 7, "Morralisa");
 let cpher = new Queen("Cpher", 7, 5, 10, 13, 7, 14, 9, "Cpher");
 let elektravandergeld = new Queen("Elektra Vandergeld", 7, 8, 11, 11, 8, 11, 11, "Elektravandergeld");
 let rebelmork = new Queen("Rebel Mork", 7, 7, 9, 11, 9, 11, 8, "Rebelmork");
-let irisxc = new Queen("The Macarena", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
+let irisxc = new Queen("Irisxc", 11, 9, 7, 5, 5, 7, 9, "Irisxc");
 
 let lmd = [aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc];
 
