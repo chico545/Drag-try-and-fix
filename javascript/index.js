@@ -2792,6 +2792,7 @@ var allQueens = [
     angele, bandit, genie, kana, kandyz, katy, m, maya, mocha, gimhuay, silver, srimala, tormai, vanda,
     anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi,
     arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena,
+    aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc,
     pangina
 ].sort(function (a, b) { return a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()); });
 var allQueensCopy = [];
