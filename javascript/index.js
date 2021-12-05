@@ -2808,6 +2808,7 @@ var allQueens = [
     anita, art, cocoj, elektra, etc, jojo, karen, kita, maxi,
     arantxa, carmenf, dovima, drag, hugaceo, inti, killer, pupi, sagittaria, macarena,
     aurora, lacarrera, sirena, papercut, tiresias, veracruz, georgiana, lupita, leexafox, morralisa, cpher, elektravandergeld, rebelmork, irisxc,
+    abhora, astrud, biqtch, dahli, dollyablack, evahdestruction, hoso, jamesm, landoncider, priscillachambers, saint, sigourneybeaver, victoriae,
     pangina
 ].sort(function (a, b) { return a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()); });
 var allQueensCopy = [];
